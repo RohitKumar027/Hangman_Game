@@ -1,8 +1,10 @@
 import random
 import art
 import word_list
+import logo
 print("\n")
 print("Welcome to Hangman !!\n")
+print(logo.print_hangman_logo())
 print(art.stage0)
 word = random.choice(word_list.word_list)
 size = len(word)
