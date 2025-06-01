@@ -1,0 +1,1 @@
+word_list = ["apple", "laptop", "book", "pen", "chair", "bottle", "phone", "wallet","glasses", "notebook", "plant", "backpack", "shoe", "mug", "lamp"]
